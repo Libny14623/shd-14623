@@ -1,0 +1,19 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "pwa para desempeño",
+  "main": "index.js",
+  "scripts": {
+    "start":"http-server -c -1." 
+  },
+  "keywords": [
+    "pwa",
+    "APP",
+    "utcv"
+  ],
+  "author": "14623@utcv.edu.mx",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
